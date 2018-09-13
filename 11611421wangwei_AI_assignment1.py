@@ -3,7 +3,7 @@ fruits = ['banana','orange','apple','peach','lemon']
 
 # 2
 for fruit in fruits:
-	if fruit = 'apple':
+	if fruit == 'apple':
 		print('I found it!')
 
 # 3
